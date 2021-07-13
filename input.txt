@@ -3,5 +3,12 @@ pikachu
 ditto
 ekans
 magikarp
-gyrados
 seaking
+articuno
+moltres
+zapdos
+arcanine
+scyther
+tauros
+pidgeot
+gyrados
